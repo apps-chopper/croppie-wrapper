@@ -1,0 +1,22 @@
+{
+  "name": "croppie-wrapper",
+  "version": "1.0.0",
+  "description": "A javascript library wrapper for image cropping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apps-chopper/croppie-wrapper.git"
+  },
+  "keywords": [
+    "croppie"
+  ],
+  "author": "Shaun Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apps-chopper/croppie-wrapper/issues"
+  },
+  "homepage": "https://github.com/apps-chopper/croppie-wrapper#readme"
+}
