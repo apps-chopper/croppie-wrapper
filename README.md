@@ -1,9 +1,9 @@
 # Croppie Library
-It is a wrapper around [croppie](https://foliotek.github.io/Croppie/) js library built on top of vanilla javascript. Easy to use and fast to implment. Implement the crop on images and preview them just in 3-5 lines of code. No muss no fuss. We take care of everything neccesary for implementing a basic crop library.
-Most of the things are customisable and totally flexible as in the original library written by **foliotek**.
+It is a wrapper around [croppie](https://foliotek.github.io/Croppie/) JS library built on top of vanilla JavaScript. Easy to use and fast to implement. Implement the crop on images and preview them just in 3-5 lines of code. No muss no fuss. We take care of everything neccesary for implementing a basic crop library.
+Most of the things are customizable and totally flexible as in the original library written by **foliotek**.
 
 # Steps to use
-- Download the source code via HTTPS or clone it to your local and place the `crop.js` and `crop.css` files as per your project hierarchy of public JS and CSS files.
+- Download the source code via HTTPS or clone it to your local. Place the `crop.js` and `crop.css` files as per your project hierarchy of public JS and CSS files.
 ```
 <!-- Crop CSS -->
 <link rel="stylesheet" href="../src/css/crop.css">
@@ -38,6 +38,6 @@ document.getElementById('crop_image').addEventListener('click', function(){
 - Wollaa... the crop for image is now implemented and you can test it now.
 
 # Note
-This is not a full fletched library, it is simple to implement and customisable. You can customise as per the examples given by us and even provide your `crop modal` HTML to the `ImageCrop` instance.
+This is not a full fletched library, it is simple to implement and customize. You can customize as per the examples given by us and even provide your `crop modal` HTML to the `ImageCrop` instance.
 
 Thanks for reading and using the wrapper. I am open for the future contributions for this library. Please contact me if you have any issues.
